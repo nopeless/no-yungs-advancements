@@ -1,0 +1,11 @@
+{
+    "pack": {
+        "pack_format": 10,
+        "description": "Disables all advancements related to Yungs mods"
+    },
+    "filter": {
+      "block": [{
+        "namespace": "^(yungsroads|betterwitchhuts|yungsextras|bettermineshafts|yungsbridges|betterfortresses|betteroceanmonuments|betterdeserttemples|betterstrongholds|betterdungeons|yungscavebiomes|yungsapi|betterportals|betterendisland|betterjungletemples)$"
+      }]
+    }
+}
