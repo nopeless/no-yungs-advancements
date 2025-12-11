@@ -5,7 +5,8 @@
     },
     "filter": {
       "block": [{
-        "namespace": "^(yungsroads|betterwitchhuts|yungsextras|bettermineshafts|yungsbridges|betterfortresses|betteroceanmonuments|betterdeserttemples|betterstrongholds|betterdungeons|yungscavebiomes|yungsapi|betterportals|betterendisland|betterjungletemples)$"
+        "namespace": "^(yungsroads|betterwitchhuts|yungsextras|bettermineshafts|yungsbridges|betterfortresses|betteroceanmonuments|betterdeserttemples|betterstrongholds|betterdungeons|yungscavebiomes|yungsapi|betterportals|betterendisland|betterjungletemples)$",
+        "path": "^advancements?/"
       }]
     }
 }
